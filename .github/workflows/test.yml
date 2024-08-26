@@ -8,4 +8,4 @@ on:
 
 jobs:
   hello_world_job:
-    uses: domjtalbot/ga-repo-test/.github/workflows/test.yml@main
+    uses: domjtalbot/ga-repo-test/.github/workflows/__test.yml@main
